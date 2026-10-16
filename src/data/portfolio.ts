@@ -11,7 +11,7 @@ export const profile: ProfileData = {
   location: 'Ayodhya, Uttar Pradesh, India',
   github: 'https://github.com/himanshusingh9554',
   linkedin: null, // Set actual LinkedIn URL when available
-  resumePath: '/profile/Himanshu-Singh-Resume.pdf',
+  resumePath: '/profile/resume.pdf',
   resumeFilename: 'Himanshu-Singh-Resume.pdf',
   avatarUrl: '/profile/photo.jpg',
   summary:
